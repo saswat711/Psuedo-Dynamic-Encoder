@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Oct 15 18:26:09 2022
+# Process ID: 8552
+# Current directory: D:/personal Git/Verilog Projects/Ultra High Speed Encoder/Ultra High Speed Encoder.sim/sim_1/synth/timing/xsim
+# Command line: wbtcv.exe -mode batch -source D:/personal Git/Verilog Projects/Ultra High Speed Encoder/Ultra High Speed Encoder.sim/sim_1/synth/timing/xsim/xsim.dir/encoder_tb_time_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/personal Git/Verilog Projects/Ultra High Speed Encoder/Ultra High Speed Encoder.sim/sim_1/synth/timing/xsim/webtalk.log
+# Journal file: D:/personal Git/Verilog Projects/Ultra High Speed Encoder/Ultra High Speed Encoder.sim/sim_1/synth/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/personal -notrace
+couldn't read file "D:/personal": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Sat Oct 15 18:26:09 2022...
